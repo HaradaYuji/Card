@@ -171,7 +171,6 @@
                         <outlet property="likeImage" destination="Njy-qQ-WMP" id="BEp-4f-DE6"/>
                         <outlet property="person1" destination="bIG-jh-6Gs" id="5pk-xZ-n3b"/>
                         <outlet property="person2" destination="Me7-7N-lAE" id="epQ-EA-mJI"/>
-                        <outlet property="person5" destination="Me7-7N-lAE" id="zLB-ia-IXM"/>
                         <outlet property="personHome1" destination="QMY-Va-n4X" id="TS5-js-pUE"/>
                         <outlet property="personHome2" destination="zUW-Xn-Bah" id="e0g-Ry-mtR"/>
                         <outlet property="personImage1" destination="FFp-LV-qVl" id="CQg-P1-L18"/>
@@ -186,7 +185,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <panGestureRecognizer minimumNumberOfTouches="1" id="F3q-hx-N0J">
                     <connections>
-                        <action selector="swipeCard:" destination="BYZ-38-t0r" id="D7d-Dc-tsp"/>
+                        <action selector="swipeCard:" destination="BYZ-38-t0r" id="bAE-sP-nBc"/>
                     </connections>
                 </panGestureRecognizer>
             </objects>
